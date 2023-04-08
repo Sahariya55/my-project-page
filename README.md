@@ -68,3 +68,24 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Hosted URL 
+https://boisterous-scone-a0b7b9.netlify.app/
+
+### Functionality
+Searching , Filter and Pagination functionality
+
+### created mock API using json server fetch dtata from there
+
+### fetch data and make a table from that data
+
+### used useState and useEffect hooks 
+
+### used bootstrap and Sass for design the page
+
+### used react to make the page dynamic 
+
+### used map function to map the items
+
+### used media quaries to make the website responsive
+
